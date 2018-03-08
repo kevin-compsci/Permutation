@@ -25,7 +25,7 @@ class JavaPermutation {
 	//function definitions below
 	//pDriver is the driver function to start permutations
 	public static void pDriver(String s) {
-		//call function permu to do permuations
+		//call function permu to do permuations --> output results to screen
 		permu("", s, s.length()); 
 	} 
 
@@ -37,7 +37,7 @@ class JavaPermutation {
 
 		//base case of length 0 --> no more characters to consider then print result?
 		if(length <= 0) {
-			System.out.println(start); //output permutations
+			System.out.println(start); //output permutations to screen
 		}
 		else {
 			//iterate over all characters in current string and recursive call for more permutations
