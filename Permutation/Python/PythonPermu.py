@@ -1,6 +1,6 @@
 #
 #Kevin Nguyen
-#Basic program for Python that outputs permutations on a given string or sequence of characters.
+#Basic program for Python that outputs permutations on a given string or sequence of characters. This method is not memory efficient.
 #
 #How to run (linux):
 #	1.) open command line and cd into directory folder of where this code is
@@ -19,7 +19,7 @@ def permu(start, currStr, length):
 
 	#base case --> no more characters to consider? print it out the permutation so far
 	if(length <= 0):
-		print start;
+		print start; #<-- print results
 	else:
 		#loop over all characters of the currStr and find substrings for more permutations
 		while(i < length):
