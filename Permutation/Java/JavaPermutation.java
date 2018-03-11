@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Naive Java program that outputs permutations of a given string (does not consider unique permutations). This method is not memory efficient.
+Naive Java program that outputs permutations of a given string (does not consider unique permutations).
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
