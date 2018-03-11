@@ -1,6 +1,6 @@
 #
 #Kevin Nguyen
-#Basic program for Python that outputs permutations on a given string or sequence of characters.
+#Basic program for Python that outputs permutations on a given string or sequence of characters. This method is not memory efficient.
 #
 #How to run (linux):
 #	1.) open command line and cd into directory folder of where this code is

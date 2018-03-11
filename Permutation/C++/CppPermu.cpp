@@ -1,6 +1,6 @@
 /*
 Kevin Nguyen
-Naive C++ program that outputs permutations of a given string.
+Naive C++ program that outputs permutations of a given string. This method is not memory efficient.
 
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
