@@ -31,7 +31,7 @@ class JavaPermutation {
 
 	//permu function performs permutations and outputs it to screen
 	public static void permu(String start, String currStr, int length) {
-		//local declaratons
+		//Local declaratons
 		int i = 0, newLength = 0;
 		String newStart = "", newCurrStr = "";
 
