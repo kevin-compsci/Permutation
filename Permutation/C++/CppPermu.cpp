@@ -60,7 +60,7 @@ void printVtr(vector<char> myVtr) {
 
 	//loop through all elements in vector and print them out
 	while(i < length) {
-		cout << myVtr[i]; //access and print out to standard out
+		cout << myVtr[i]; //access and print out to screen (standard out)
 		i++;
 	}
 	cout << endl; //new line
