@@ -40,7 +40,7 @@ void doPermutations(vector<char> currVtr) {
 		printVtr(currVtr); //<-- print contents
 	}
 
-	cout << endl;
+	cout << endl; //newline
 	cout << "EXTRA PERMUTATIONS BELOW:" << endl;
 	//EXTRA permutations with upperCase characters; loop through and turn characters one at a time for permutation
 	while(i < currVtr.size()) {
