@@ -2,6 +2,8 @@
 Kevin Nguyen
 Naive Java program that outputs permutations of a given string (does not consider unique permutations). This method is not memory efficient.
 
+TODO: use this algorithm as a template for input with arrays instead?
+
 How to run (linux):
 	1.) open command line and cd into directory folder of where this code is
 	2.) type in "javac *.java" to compile java files
