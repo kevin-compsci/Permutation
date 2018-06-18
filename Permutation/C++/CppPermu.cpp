@@ -29,7 +29,7 @@ int main(int argc, char const *argv[]) {
 	return 0;
 }
 
-//function to do permutations
+//function to do permutations with vector
 void doPermutations(vector<char> currVtr) {
 	//local declarations
 	int i = 0;
