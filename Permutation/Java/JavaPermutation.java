@@ -16,8 +16,6 @@ import java.util.*;
 
 //class
 class JavaPermutation {
-	//Global Declarations
-
 	//main driver
 	public static void main(String[] args) {
 		//local Declarations
